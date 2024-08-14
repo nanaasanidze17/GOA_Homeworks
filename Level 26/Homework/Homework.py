@@ -1,0 +1,1 @@
+# TUPLE - is type of data structure which is very similar to lists, but we use parentheses () instead of [] and tuples are immutable so once its created you cannot change it.
